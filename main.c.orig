@@ -1,6 +1,9 @@
 
 int main(){
     printf("Hello world!");
+<<<<<<< HEAD
+    printf("Merry Xmas");
+=======
     printf("Hello world!");
     printf("Hello world!");
 
@@ -12,7 +15,7 @@ fenzhi88
 
 4a2swdf
 
-aaaa
+
 
 }
 
@@ -21,4 +24,5 @@ int ex2()
 {]
 
 
+>>>>>>> 72ac4d200b4ff7bedfb6ec9f5e73856eddf60b10
 }
