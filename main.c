@@ -6,11 +6,9 @@ int main(){
 
 asdfkljllk
 
-fenzhi
-fenzhi
-fenzhi
-fenzhi
-fenzhi
-fenzhi
-fenzhi
+fenzhi88
+
+22asdf121as2.
+
+4a2swdf
 }
